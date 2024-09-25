@@ -1,4 +1,4 @@
-使用gcc编译，所有输入输出格式与规定相同，Level1-2 optional需要手动输入文件路径
+用VS Code编辑，使用gcc编译，所有输入输出格式与规定相同，Level1-2 optional需要手动输入文件路径
 
 Level0-2 使用gcc分步编译生成.i .s .o .exe文件
 Level1-1 可以单次单通道摆放货物
